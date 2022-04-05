@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Andersen Task2 part23</string>
+    <string name="http_developer_android_com">http://developer.android.com</string>
+    <string name="open_website">Open Website</string>
+    <string name="golden_gate_bridge">Golden Gate Bridge</string>
+    <string name="open_location">Open Location</string>
+    <string name="twas_brillig_and_the_slithy_toves">\'Twas brillig and the slithy toves</string>
+    <string name="share_this_text">Share This Text</string>
+    <string name="take_a_photo">Take a photo</string>
+</resources>
